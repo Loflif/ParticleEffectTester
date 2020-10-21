@@ -21,6 +21,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_56554D2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 2800000, guid: dd19c9e80cedd834a9ac806e6dcb45d7, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -66,7 +70,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_8827AFDC: 0.48
+    - Vector1_56619B13: 1.55
+    - Vector1_5DCDDF3F: 1
+    - Vector1_7A207C69: 15
+    - Vector1_8827AFDC: 0
     - _AlphaClip: 0
     - _Blend: 0
     - _BlendOp: 0
@@ -106,6 +113,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:
+    - Vector2_82AF8990: {r: -0.7, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
