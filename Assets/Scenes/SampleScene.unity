@@ -5419,7 +5419,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!198 &1595258406
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -6053,7 +6053,7 @@ ParticleSystem:
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
-    m_Position: {x: 0.5, y: 0, z: 0}
+    m_Position: {x: 0.53, y: 0, z: 0}
     m_Rotation: {x: 0, y: 90, z: 0}
     m_Scale: {x: 0.5, y: 0.5, z: 0.5}
     placementMode: 0
@@ -7574,7 +7574,7 @@ ParticleSystem:
     x:
       serializedVersion: 2
       minMaxState: 0
-      scalar: -21.9
+      scalar: -25
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -9385,7 +9385,7 @@ ParticleSystem:
     dieWithParticles: 0
     sizeAffectsWidth: 0
     sizeAffectsLifetime: 1
-    inheritParticleColor: 0
+    inheritParticleColor: 1
     generateLightingData: 1
     splitSubEmitterRibbons: 0
     attachRibbonsToTransform: 0
@@ -9477,6 +9477,15 @@ ParticleSystem:
           tangentMode: 0
           weightedMode: 0
           inWeight: 0.48487523
+          outWeight: 0.33333334
+        - serializedVersion: 3
+          time: 0.8296239
+          value: 0.46372163
+          inSlope: -2.5914195
+          outSlope: -2.5914195
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
           time: 1
