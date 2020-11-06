@@ -26,7 +26,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 4f8be5b46da1cfa4aa55decff435a929, type: 3}
+        m_Texture: {fileID: 2800000, guid: e3d1781dba8af714880332cf01214ca7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -84,12 +84,12 @@ Material:
     - _CameraNearFadeDistance: 1
     - _ColorMode: 0
     - _Cull: 2
-    - _Cutoff: 0.5
+    - _Cutoff: 0.046
     - _DetailNormalMapScale: 1
     - _DistortionBlend: 0.5
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
-    - _DistortionStrengthScaled: 0
+    - _DistortionStrengthScaled: 0.1
     - _DstBlend: 10
     - _EmissionEnabled: 0
     - _FlipbookBlending: 0
@@ -117,12 +117,12 @@ Material:
     - Color_648CEEFF: {r: 1.4980392, g: 0.8784314, b: 0.8784314, a: 1}
     - Vector2_82AF8990: {r: 1, g: 0, b: 0, a: 0}
     - Vector2_DD1E86FE: {r: 1, g: 0, b: 0, a: 0}
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0, g: 0, b: 0, a: 1}
     - _BaseColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 1.5157166, g: 0, b: 0.047551896, a: 1}
+    - _EmissionColor: {r: 2.0732985, g: 2.0732985, b: 2.0732985, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &5147430089742099743
